@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+*.swp
+*.swo
+*~
+.netrwhist
+nvim.log
+
+.luarc.json
+.luarc.jsonc
+
+lazy-lock.json
